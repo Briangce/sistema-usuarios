@@ -12,7 +12,7 @@ include_once "./version.php";
     <meta property="og:locale" content="pt_BR" />
     <meta property="og:type" content="article" />
     <meta property="og:title" content="Umentor ê um Sistema de RH que ajuda na performance e na avaliação de desempenho da sua equipe! Tudo que o seu departamento de RH precisa em um só lugar." />
-    <meta property="og:url" content="https://testeab.42web.io/index.php" />
+    <meta property="og:url" content="https://localteste.42web.io/index.php" />
     <meta property="og:site_name" content="Umentor" />
     <meta property="og:image" content="https://painel.umentor.com.br/system/filemanager/files/candidato_umentor-brasil_2_1614018045.jpg" />
     <meta property="og:image:secure_url" content="https://painel.umentor.com.br/system/filemanager/files/candidato_umentor-brasil_2_1614018045.jpg" />

@@ -41,5 +41,5 @@ CREATE TABLE usuarios (
   data_criacao TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
-INSERT INTO usuarios (id, nome, email, permission_user, empresa, senha, data_criacao) VALUES
+INSERT INTO usuarios (id, nome, email, senha, data_criacao) VALUES
 (1, 'permanent', 'user@system.com', '1234567!', '2024-08-01 18:08:51');
