@@ -33,14 +33,10 @@ class Geral{
 
     public function conectBase($type_con, $query)
     {
-        // $servername = "sql106.infinityfree.com";
-        // $username = "if0_36261491";
-        // $password = "4C9OitHa12N";
-        // $dbname = "if0_36261491_";
-        $servername = "localhost";
-        $username = "root";
-        $password = "";
-        $dbname = "umentor_teste";
+        $servername = "sql300.infinityfree.com";
+        $username = "if0_37031138";
+        $password = "qNTRWRwSi5sCfg";
+        $dbname = "if0_37031138_umentor_teste";
 
         try {
             // Crear la conexión
